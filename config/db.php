@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=post;unix_socket=/Users/osokoliu/Library/Containers/MAMP/mysql/tmp/mysql.sock',
+    'dsn' => 'mysql:host=localhost;dbname=post;',
     'username' => 'root',
     'password' => '1111111',
     'charset' => 'utf8',
